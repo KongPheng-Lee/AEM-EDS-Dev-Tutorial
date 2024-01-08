@@ -2,7 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
+- Preview: https://main--{AEM-EDS-Dev-Tutorial
+}--{KongPheng-Lee}.hlx.page/
 - Live: https://main--{repo}--{owner}.hlx.live/
 
 ## Installation
